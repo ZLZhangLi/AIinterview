@@ -100,23 +100,14 @@
 ### 其他（分方向）
 
 - word2vec的原理，glove的原理，fasttext的原理？
-
 - cbow和skipgram如何选择？
-
 - 了解elmo和bert吗？简述与word embedding的联系和区别
-
 - 图像和文本和语音数据各有哪些数据增强方法？
-
 - rcnn、fatse rcnn、fatser rcnn、mask rcnn的原理？ 
-
 - 介绍resnet和GoogLeNet中的inception module的结构？ 
-
 - 介绍yolo和ssd ？
-
 - 介绍FM，FFM，deepFM，deepWide.
-
 - 机器翻译如何解决oov？
-
 - 等等
 
   
